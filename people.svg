@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="176" height="176" viewBox="0 0 176 176">
-  <g>
-    <circle cx="121.1" cy="100.8" r="31.7" fill="none" stroke="#21a8d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-    <path d="M75.5,161a50.8,50.8,0,0,1,91.3,0" fill="none" stroke="#21a8d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-    <circle cx="99.1" cy="35.7" r="20.7" fill="none" stroke="#21a8d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-    <path d="M73,69.1a33.2,33.2,0,0,1,40.7-9.3,32.8,32.8,0,0,1,11.7,9.5M72.9,69a20.6,20.6,0,0,1,.2,3.5,25.9,25.9,0,1,1-.2-3.5" fill="none" stroke="#21a8d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-    <path d="M9.2,122.3a42.1,42.1,0,0,1,75.5,0" fill="none" stroke="#21a8d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 176"><g fill="none" stroke="#21a8d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"><circle cx="121.1" cy="100.8" r="31.7"/><path d="M75.5 161a50.8 50.8 0 0 1 91.3 0"/><circle cx="99.1" cy="35.7" r="20.7"/><path d="M73 69.1a33.2 33.2 0 0 1 40.7-9.3 32.8 32.8 0 0 1 11.7 9.5M72.9 69a20.6 20.6 0 0 1 .2 3.5 25.9 25.9 0 1 1-.2-3.5"/><path d="M9.2 122.3a42.1 42.1 0 0 1 75.5 0"/></g></svg>
